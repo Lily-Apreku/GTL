@@ -1,0 +1,15 @@
+form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1;
+}   
+body{
+    
+    background: url("rose-petals-3194062_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    
+}
